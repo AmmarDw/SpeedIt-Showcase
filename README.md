@@ -1,4 +1,4 @@
-# SpeedIt – Enterprise Inventory & Order Management System
+# SpeedIt – Inventory Tracking & Order Management System
 
 **SpeedIt** is a full-stack enterprise logistics solution designed to modernize manual supply chain workflows. The system replaces error-prone manual tracking with an automated environment featuring a smart allocation engine, recursive packaging hierarchies, and real-time inventory visibility.
 
