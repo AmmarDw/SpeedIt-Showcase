@@ -3,8 +3,8 @@
 **SpeedIt** is a full-stack enterprise logistics solution designed to modernize manual supply chain workflows. The system replaces error-prone manual tracking with an automated environment featuring a smart allocation engine, recursive packaging hierarchies, and real-time inventory visibility.
 
 ---
-![Order Allocation](./assets/SpeedIt_final_poster.png)
-
+### Poster
+![Project Poster](./assets/SpeedIt_final_poster.png)
 
 ## 🏗️ System Architecture
 The system is built on a **3-Tier Client-Server Architecture** to ensure a clean separation of concerns, scalability, and security.
